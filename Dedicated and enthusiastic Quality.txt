@@ -1,0 +1,13 @@
+Dedicated and enthusiastic Quality Analyst with a strong foundation in software testing methodologies and tools. Skilled in Java programming, SQL, API testing, manual testing, and automation testing techniques. Committed to ensuring the delivery of high-quality software products that meet customer expectations and business requirements.
+
+Manual Testing:
+Proficient in manual testing practices including test case design, execution, and defect tracking. Experienced in performing functional, regression, integration, and system testing to validate software functionality and reliability.
+
+Automation Testing:
+Hands-on experience in automation testing using Selenium WebDriver, TestNG, and JUnit. Capable of developing and maintaining automation scripts to improve test efficiency and coverage, reducing manual effort and increasing productivity.
+
+Database Testing:
+Skilled in database testing using SQL to verify data integrity, perform data validation, and ensure consistency across different database environments. Proficient in writing and executing complex SQL queries for backend testing.
+
+API Testing:
+Knowledgeable in API testing principles and tools such as Postman and REST Assured. Able to test API endpoints for functionality, performance, and reliability, ensuring seamless communication between software components.

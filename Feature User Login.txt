@@ -1,0 +1,34 @@
+Feature: User Login
+   Scenario: Successful Login
+     Given the user is on the nopCommerce login page
+     When the user enters valid credentials (username: "test@gmail.com", password:"test@123")
+     And the user clicks on the Login button
+     Then the users should be redirected to the My Account page
+     And the user should see a welcome message
+
+
+
+<dependencies>
+
+<!--  https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java  -->
+<dependency>
+<groupId>org.seleniumhq.selenium</groupId>
+<artifactId>selenium-java</artifactId>
+<version>4.27.0</version>
+</dependency>
+
+<!--  https://mvnrepository.com/artifact/io.cucumber/cucumber-java  -->
+<dependency>
+<groupId>io.cucumber</groupId>
+<artifactId>cucumber-java</artifactId>
+<version>7.21.1</version>
+</dependency>
+
+<!--  https://mvnrepository.com/artifact/io.cucumber/cucumber-junit  -->
+<dependency>
+<groupId>io.cucumber</groupId>
+<artifactId>cucumber-junit</artifactId>
+<version>7.21.1</version>
+</dependency>
+
+</dependencies>

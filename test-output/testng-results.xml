@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-24T11:44:25 IST" name="Suite" finished-at="2025-04-24T11:44:33 IST" duration-ms="8652">
+  <suite started-at="2025-06-02T06:58:22 IST" name="Suite" finished-at="2025-06-02T06:58:34 IST" duration-ms="11937">
     <groups>
     </groups>
-    <test started-at="2025-04-24T11:44:25 IST" name="Test" finished-at="2025-04-24T11:44:33 IST" duration-ms="8652">
+    <test started-at="2025-06-02T06:58:22 IST" name="Test" finished-at="2025-06-02T06:58:34 IST" duration-ms="11937">
       <class name="testCases.TC0001_AccountRegistration">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC0001_AccountRegistration@40f1be1b]" started-at="2025-04-24T11:44:25 IST" name="setup" finished-at="2025-04-24T11:44:29 IST" duration-ms="4160" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC0001_AccountRegistration@40f1be1b]" started-at="2025-06-02T06:58:22 IST" name="setup" finished-at="2025-06-02T06:58:30 IST" duration-ms="7961" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,11 +23,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_accountregistration()[pri:0, instance:testCases.TC0001_AccountRegistration@40f1be1b]" started-at="2025-04-24T11:44:29 IST" name="verify_accountregistration" finished-at="2025-04-24T11:44:33 IST" duration-ms="3953" status="PASS">
+        <test-method signature="verify_accountregistration()[pri:0, instance:testCases.TC0001_AccountRegistration@40f1be1b]" started-at="2025-06-02T06:58:30 IST" name="verify_accountregistration" finished-at="2025-06-02T06:58:33 IST" duration-ms="3474" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_accountregistration -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC0001_AccountRegistration@40f1be1b]" started-at="2025-04-24T11:44:33 IST" name="teardown" finished-at="2025-04-24T11:44:33 IST" duration-ms="442" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC0001_AccountRegistration@40f1be1b]" started-at="2025-06-02T06:58:33 IST" name="teardown" finished-at="2025-06-02T06:58:34 IST" duration-ms="411" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

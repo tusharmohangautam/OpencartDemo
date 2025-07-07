@@ -1,0 +1,14 @@
+local repository url:
+
+ C:/Users/VICKY/eclipse-workspace/OpencartDemo/.git/
+
+
+
+
+user.name   TUSHAR
+user.email    tushargtm27@gmail.com
+
+
+
+
+https://github.com/tusharmohangautam/OpencartDemo.git

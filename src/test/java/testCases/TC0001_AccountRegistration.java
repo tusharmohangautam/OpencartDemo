@@ -24,9 +24,9 @@ public class TC0001_AccountRegistration extends BaseClassCommonMethods{
 		HomePage hp =new HomePage(driver);
 		
 		hp.clickMyAccount();
-		//logger.info("clicked on my account link....");
+		logger.info("clicked on my account link....");
 		hp.clickRegister();
-		//logger.info("clicked on register link.....");
+		logger.info("clicked on register link.....");
 		
 		AccountRegistration regpage = new AccountRegistration(driver);
 		
