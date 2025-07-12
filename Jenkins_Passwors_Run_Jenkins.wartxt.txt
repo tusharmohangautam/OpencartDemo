@@ -1,0 +1,6 @@
+b962c11faad7432db07a570100e10ec1
+
+
+command for starting Jenkins local host: open command prompt in location where Jenkins.war is present in   C: Drive
+
+java -jar jenkins.war --enable-future-java
