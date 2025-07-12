@@ -1,7 +1,0 @@
-Jenkins start command for command prompt:
-
-open command prompt in folder where Jenkins is installed:  java -jar Jenkins.war --enble-future-java
-
-
-
-UR to on Jenkins in browsr: lclhost:8080
